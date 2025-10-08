@@ -2,7 +2,7 @@
 body{
 background-image: url("abs.gif");
 background-color: #00FFFF;
-  cover;
+  object-fit: fill;
 
    
 }
@@ -34,6 +34,7 @@ font-size:20pt;
 
 
 {text-align: center;}
+
 
 
 
